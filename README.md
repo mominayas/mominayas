@@ -20,6 +20,7 @@
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/momina-yasin/)
 - [Xing](https://www.xing.com/profile/Momina_Yasin/web_profiles)
+- [Email](mailto:momina.yasin39@gmail.com)
 
 Feel free to reach out for collaborations, opportunities, or just a friendly chat about technology, innovation, or anything else!
 ---
