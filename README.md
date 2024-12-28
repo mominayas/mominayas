@@ -3,12 +3,15 @@
 🚀 **Aspiring Technology Innovator | M.Eng Technology & Innovation Management Student**
 
 ## 🌟 Current Focus
-- **SAP S/4HANA**: Deepening my understanding of ERP systems and their impact on enterprise resource planning.
-- **AWS for Cloud Computing**: Exploring the vast possibilities of cloud computing and how it can be integrated with current industry needs.
+- Actively seeking a **part-time working student role** or **thesis** opportunity in data-driven research or software development.
+- Enhancing expertise in data analysis and visualization techniques using Python for real-world applications.
+- Building a strong foundation in statistical methodologies and programming to contribute effectively to analytical and technical projects.
 - **German Language**: Actively improving my proficiency in German to enhance my professional communication skills.
 
 ## 💻 Technical Skills
 - PowerBI, Microsoft Excel, SQL (MySQL)
+- Python Programming
+- Statistical Interpretation, Data Analysis, Data Visualization
 - JavaScript, Node.js, React.js, HTML
 - Atlassian JIRA, Confluence, Miro Board, Lucid Chart
 - SAP S/4HANA (Learning)
