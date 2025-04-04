@@ -3,7 +3,7 @@
 🚀 **Aspiring Technology Innovator | M.Eng Technology & Innovation Management Student**
 
 ## 🌟 Current Focus
-- Actively seeking a **part-time working student role** or **thesis** opportunity in data-driven research focused on innovation and technology, leveraging analytical and programming skills
+- Actively seeking a **part-time or full-time role** or **thesis** opportunity in data-driven research focused on innovation and technology, leveraging analytical and programming skills
 - Enhancing expertise in data analysis and visualization techniques using Python for real-world applications.
 - Building a strong foundation in statistical methodologies and programming to contribute effectively to analytical and technical projects.
 - **German Language**: Actively improving my proficiency in German to enhance my professional communication skills.
